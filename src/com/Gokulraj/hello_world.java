@@ -3,7 +3,9 @@ package com.Gokulraj;
 public class hello_world {
 
     public static void main(String[] args) {
-	//First program of all the programming language
+	//First famous program of the programming languages
         System.out.println("Hello world..!");
+        int number = 10;
+        System.out.println(number);
     }
 }
