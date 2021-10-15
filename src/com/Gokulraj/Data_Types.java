@@ -1,8 +1,8 @@
 package com.Gokulraj;
 
-    public class Data_Types {
+public class Data_Types {
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
             //In this programme we could see the data types of java
             // there are primitive and non-primitive data types are present in java
             // primitive - Boolean, Character, Integer and Floating points, Non-primitive - Array, String, Class, Interface, etc...
@@ -17,7 +17,7 @@ package com.Gokulraj;
             float num4 = 5.343F; //float can store 32-bit IEEE 754 floating point.
             double num5 = 5.23452646454; //double can store 64-bit IEEE 754 floating point.
 
-            System.out.println(boole+"\n"+letter+"\n"+num+"\n"+num1+"\n"+num2+"\n"+num3+"\n"+num4+"\n"+ num5);
-        }
+            System.out.println(boole+"\n"+letter+"\n"+num+"\n"+num1+"\n"+num2+"\n"+num3+"\n"+num4+"\n"+num5);
     }
 
+}
